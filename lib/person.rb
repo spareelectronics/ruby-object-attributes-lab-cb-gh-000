@@ -1,4 +1,4 @@
-class person
+class Person
 
   def name=(get_name)
     @name = get_name
