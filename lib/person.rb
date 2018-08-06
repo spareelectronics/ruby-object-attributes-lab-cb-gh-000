@@ -8,15 +8,12 @@ class person
     @name
   end
 
-  def breed=(get_breed)
-    @breed = get_name
+  def job=(get_job)
+    @job = get_job
   end
 
-  def breed
-    @breed
+  def job
+    @job
   end
 
 end
-
-  
-  
